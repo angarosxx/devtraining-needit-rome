@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="NeedIt Experience Config">10b4be9b1bc3411010160d82604bcbd0</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Home">1108f97c1b63011010160d82604bcb45</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>User home</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Blank AppShell">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Home">1475d31f1b07411010160d82604bcb39</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 12:02:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9d08f97c1b63011010160d82604bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_9d08f97c1b63011010160d82604bcb48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 12:02:39</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=9d08f97c1b63011010160d82604bcb48"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a9287b45dbc32490f37acac50596199d</instance_id>
+        <instance_name>dev107691</instance_name>
+        <name>sys_ux_screen_9d08f97c1b63011010160d82604bcb48</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="NeedIt Experience Config">10b4be9b1bc3411010160d82604bcbd0</app_config><description/><event_mappings>[ ]</event_mappings><macroponent display_value="Home">1108f97c1b63011010160d82604bcb45</macroponent><macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config><name>User home</name><order>0</order><parent_macroponent display_value="UXR Blank AppShell">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent><required_translations>[ ]</required_translations><screen_condition/><screen_type display_value="Home">1475d31f1b07411010160d82604bcb39</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-16 12:02:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9d08f97c1b63011010160d82604bcb48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User home</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_9d08f97c1b63011010160d82604bcb48</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-16 12:02:39</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=9d08f97c1b63011010160d82604bcb48"/></record_update>]]></payload>
+        <payload_hash>-1761802560</payload_hash>
+        <record_name>User home</record_name>
+        <reverted_from/>
+        <source>aeb2e68f1b43011010160d82604bcb37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 12:02:39</sys_created_on>
+        <sys_id>d508f97c1b63011010160d82604bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180ccbfbbe10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 12:02:39</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>1108f97c616301106910014e3a79884c</update_guid>
+        <update_guid_history>1108f97c616301106910014e3a79884c:-1761802560</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-20 06:54:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>6d4e9c7f5f9b4d04b758d6f6eee7e490</sys_id>
+        <sys_metadata>9d08f97c1b63011010160d82604bcb48</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User home</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_9d08f97c1b63011010160d82604bcb48</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_9d08f97c1b63011010160d82604bcb48">d508f97c1b63011010160d82604bcb4c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-20 06:54:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
